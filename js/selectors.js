@@ -6,3 +6,7 @@ const paragraphSelector = function () {
 const lastImageSelector = function () {
   return $('img:last')
 }
+
+const ninjaBabySelector = function () {
+
+}
