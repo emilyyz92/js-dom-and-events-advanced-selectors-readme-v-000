@@ -8,7 +8,7 @@ const lastImageSelector = function () {
 }
 
 const ninjaBabySelector = function () {
-  return $('src = "https://s3.amazonaws.com/after-school-assets/confused.gif"')
+  return $('img[src = "https://s3.amazonaws.com/after-school-assets/confused.gif"]')
 }
 
 const divSelector = function () {
@@ -16,5 +16,5 @@ const divSelector = function () {
 }
 
 const firstListItem = function() {
-  
+
 }
