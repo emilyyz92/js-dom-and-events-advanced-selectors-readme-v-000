@@ -4,17 +4,17 @@ const paragraphSelector = function () {
 }
 
 const lastImageSelector = function () {
-  return $('img:last')
+  $('img:last')
 }
 
 const ninjaBabySelector = function () {
-  return $('img[src = "https://s3.amazonaws.com/after-school-assets/confused.gif"]')
+  $('img[src = "https://s3.amazonaws.com/after-school-assets/confused.gif"]')
 }
 
 const divSelector = function () {
-  return $('div.pics')
+  $('div.pics')
 }
 
 const firstListItem = function() {
-  return $('li:first')
+  $('li:first')
 }
