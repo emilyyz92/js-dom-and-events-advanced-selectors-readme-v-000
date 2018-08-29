@@ -14,3 +14,7 @@ const ninjaBabySelector = function () {
 const divSelector = function () {
   return $('div')
 }
+
+const firstListItem = function() {
+  
+}
