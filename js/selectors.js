@@ -12,9 +12,9 @@ const ninjaBabySelector = function () {
 }
 
 const divSelector = function () {
-  return $('div')
+  return $('div, .pics')
 }
 
 const firstListItem = function() {
-
+  
 }
