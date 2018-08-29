@@ -10,3 +10,7 @@ const lastImageSelector = function () {
 const ninjaBabySelector = function () {
   return $('src = "https://s3.amazonaws.com/after-school-assets/confused.gif"')
 }
+
+const divSelector = function () {
+  return $('div')
+}
