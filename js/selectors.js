@@ -16,5 +16,5 @@ const divSelector = function () {
 }
 
 const firstListItem = function() {
-
+  return $('li:first')
 }
